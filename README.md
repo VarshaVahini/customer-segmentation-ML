@@ -22,3 +22,6 @@ This project performs customer segmentation using K-Means clustering based on:
 ```bash
 pip install -r requirements.txt
 python main.py
+
+
+
